@@ -1,5 +1,5 @@
 
-## 👨‍💻 About This Project
+##  About This Project
 
 Built by me as a full-stack MERN application (MongoDB, Express, React, Node.js) to practice end-to-end CRUD development. It includes:
 
@@ -8,7 +8,7 @@ Built by me as a full-stack MERN application (MongoDB, Express, React, Node.js) 
 - **Login page** — front-end routing to a Dashboard
 - REST API built with Express and Mongoose, connected to MongoDB
 
-## 🧪 QA Testing
+##  QA Testing
 
 After building the app, I put on a QA hat and tested it independently — designing test cases, finding real defects through functional testing and source code review, and automating coverage with Selenium.
 
